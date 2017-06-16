@@ -101,7 +101,7 @@ public class OptionsTab extends AbstractLaunchConfigurationTab /*implements Modi
 
 	@Override
 	public String getName() {
-		return "Reachable Formula";
+		return "General Options Tab";
 	}
 
 	@Override
